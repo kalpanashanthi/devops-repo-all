@@ -1,0 +1,4 @@
+touch filename{1....20}.txt
+ls
+mv filename{1..5}.txt filename{1..5}.yml
+ls -lrt
